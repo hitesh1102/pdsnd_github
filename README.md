@@ -2,7 +2,7 @@
 15:15 31-07-2019
 
 ### Project Title
-Github project
+Github project by udacity
 
 ### Description
 Bikeshare project that works in python to analyze the usage of rented bikes on the basis of the duration of bike use and the initial and final stations along with some extra knowledge about a specific city.
