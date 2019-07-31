@@ -5,7 +5,7 @@
 Github project
 
 ### Description
-Bikeshare project that works in python to find out different asspects by using the data provided.
+Bikeshare project that works in python to analyze the usage of rented bikes on the basis of the duration of bike use and the initial and final stations along with some extra knowledge about a specific city.
 
 ### Files used
 new_york_city.csv
